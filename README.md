@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=TOXIC-BOT+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -11,8 +11,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+<a href="https://github.com/ramirezben">
+    <img src="https://telegra.ph/file/d0498cdebdce755e7c615.jpg"  width="700px">
 </a>
 <hr>
 
@@ -21,7 +21,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+[![toxic](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://wa.me/254746028708)
 
 
 
@@ -29,19 +29,19 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![toxic](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://wa.me/254719485000)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![vajira](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://chat.whatsapp.com/JTR4k7tiJfXFlz0yQyjCPI)
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+[![Youtube](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://youtube.com/@drben001) 
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/Ramirezben/VAJIRA-MD-fork)***
 
 ***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
