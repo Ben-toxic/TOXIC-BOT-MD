@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/ramirezben">
-    <img src="https://telegra.ph/file/d0498cdebdce755e7c615.jpg"  width="700px">
+    <img src="https://telegra.ph/file/c0dd51c05d02eb80021e6"  width="700px">
 </a>
 <hr>
 
@@ -21,7 +21,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![toxic](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://wa.me/254746028708)
+[![toxic](https://telegra.ph/file/c0dd51c05d02eb80021e6)](https://wa.me/254746028708)
 
 
 
@@ -29,15 +29,15 @@
 
 ## CONTACT OWNER
 
-[![toxic](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://wa.me/254719485000)
+[![toxic](https://telegra.ph/file/c0dd51c05d02eb80021e6)](https://wa.me/254719485000)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://chat.whatsapp.com/JTR4k7tiJfXFlz0yQyjCPI)
+[![vajira](https://telegra.ph/file/c0dd51c05d02eb80021e6)](https://chat.whatsapp.com/JTR4k7tiJfXFlz0yQyjCPI)
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/d0498cdebdce755e7c615.jpg)](https://youtube.com/@drben001) 
+[![Youtube](https://telegra.ph/file/c0dd51c05d02eb80021e6)](https://youtube.com/@drben001) 
 
 </details>
 
