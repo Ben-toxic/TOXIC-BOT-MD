@@ -1,4 +1,4 @@
-👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ5 (CREDS.JSON UPLOAD FOLDER) 👨‍💻
+👨‍💻 TOXIC-BOT - ＭＤ - Ｖ5 (CREDS.JSON UPLOAD FOLDER) 👨‍💻
 
 ᴍʏ ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇ ᴏꜰ ᴠᴀᴊɪʀᴀ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ.....
 
