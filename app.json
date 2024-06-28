@@ -2,19 +2,19 @@
   "name": "TOXIC-BOT-MD",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
   "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "keywords": ["toxicbotmd", "bot", "whatsapp bot", "multi device", "TOXIC BOT MD"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
             "description": "session id",
             "required": true,
-            "value": "TOXIC-BOT-MD=LQ92UKBL#XA3JC0DsPSXz_09bwTF0F3re6YZJ6zHdORY5ZZYUuQY"
+            "value": "VAJIRA-MD=LQ92UKBL#XA3JC0DsPSXz_09bwTF0F3re6YZJ6zHdORY5ZZYUuQY"
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
             "required": true,
-            "value": "nonbutton"
+            "value": "button"
         },
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
