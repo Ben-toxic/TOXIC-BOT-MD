@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=TOXIC-BOT+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=TOXIC-BOT+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ+MADE+BY+DR+BEN)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -72,7 +72,7 @@
 
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 TOXIC-BOT- ＭＤ 🧚
 
 </div>
 
@@ -81,4 +81,4 @@
 3) 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙽𝙴𝚆𝚂 𝙷𝙴𝚁𝙾𝙺𝚄 𝙰𝙿𝙿.
 4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝙸 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
 5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
-6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚀𝚄𝙴𝙴𝙽 𝙸𝚉𝚄𝙼𝙸 𝙼𝙳 𝙱𝙾𝚃.
+6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 TOXIC BOT 𝙼𝙳 𝙱𝙾𝚃.
